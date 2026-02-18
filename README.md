@@ -14,25 +14,25 @@ Dashboard Pages
 1. Revenue Performance Overview
 
 Key Metrics:
-Total Revenue: $14.44M
-Net Profit: $4.01M
-Profit Margin: 27.79%
+- Total Revenue: $14.44M
+- Net Profit: $4.01M
+- Profit Margin: 27.79%
 
 Insights:
-Revenue peaked in Q1 2023
-Toys category contributes 35%+ of revenue
-Top 3 cities drive 25% of total sales
+- Revenue peaked in Q1 2023
+- Toys category contributes 35%+ of revenue
+- Top 3 cities drive 25% of total sales
 
 2. Inventory Performance & Profitability Analysis
 
 Key Metrics:
-Total Stock Units: 30K
-Active Products: 35
-Low Stock Products: 12
+- Total Stock Units: 30K
+- Active Products: 35
+- Low Stock Products: 12
 
 Insights:
-High-profit low-stock products indicate restocking opportunities
-High-stock low-profit items signal overstock risk
+- High-profit low-stock products indicate restocking opportunities
+- High-stock low-profit items signal overstock risk
 
 Tools & Technologies
 
